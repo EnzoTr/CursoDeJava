@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String nombre = "Enzo";
+        int edad = 20;
+        double salario = 2999.99;
+        boolean carnet = true;
+
+    }
+}
